@@ -1,0 +1,7 @@
+*.gem
+Gemfile.lock
+test/destination
+.bundle
+pkg/
+.jekyll-metadata
+_site/
